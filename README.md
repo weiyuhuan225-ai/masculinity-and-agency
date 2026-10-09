@@ -2,6 +2,8 @@
 
 围绕“后男性主义语境下男性自我工具化的传播机制与主体性重建”整理的公开阅读项目，包含完整论文和独立通俗解读。
 
+**直接在线阅读：** [通俗阅读版《有用之外》](https://weiyuhuan225-ai.github.io/masculinity-and-agency/) · [完整论文原文](https://weiyuhuan225-ai.github.io/masculinity-and-agency/paper.html) · [下载原始 Word](https://weiyuhuan225-ai.github.io/masculinity-and-agency/docs/original-paper.docx)
+
 ## 阅读入口
 
 - **通俗阅读版**：[index.html](index.html) — “你不必一直有用，也值得被尊重”。用生活情境、可交互的机制说明和传播理论词条解释论文观点。
